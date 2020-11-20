@@ -1,5 +1,6 @@
-####### VARIATION OF GENERAL INDIAN RUMMY MADE BY DIVYANSH RASTOGI ############
-GUI:
+# VARIATION OF GENERAL INDIAN RUMMY MADE BY DIVYANSH RASTOGI
+
+## GUI:
 Game has been made interactive with adding music and sounds. With effects from 
 shuffling cards to ticking of clock, the game is highly engaging (Hidden easter eggs!). With graphics from
 graphing bar graphs to having hover functions in the game, the game feels
@@ -7,9 +8,7 @@ like a real computer graphic window. With incorporating colors into the terminal
 and having top notch backend processing for your game logic catering to every possible input/output, the user feels as if he is playing 
 rummy in real life.
 
-
-
-Rules:
+## Rules:
 1. You will be shuffled 13 cards.
 2. You play with a single deck.
 3. There is a wildcard which acts as a joker.
