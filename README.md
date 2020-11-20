@@ -1,4 +1,4 @@
-# VARIATION OF GENERAL INDIAN RUMMY MADE BY DIVYANSH RASTOGI
+<h1>VARIATION OF GENERAL INDIAN RUMMY</h1>
 
 ## GUI:
 Game has been made interactive with adding music and sounds. With effects from 
